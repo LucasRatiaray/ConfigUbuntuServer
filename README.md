@@ -2,7 +2,7 @@
 
 # Bienvenue dans README.md
 
-## B A S H
+### B A S H
 
 ````bash
 sudo apt update
@@ -22,9 +22,8 @@ sudo usermod -aG sudo nom_utilisateur
 sudo grep '^sudo' /etc/group
 ````
 
-##############################
-## ufw firewall configuration ##
-##############################
+## ufw firewall configuration #
+````bash
 sudo apt install ufw
 
 ## allow ipv6 "IPV6=yes"
