@@ -64,4 +64,15 @@ sudo ufw allow from ip_address
 :%d
 # save & quit
 :wq
+`````
 
+### Install Linux, Apache, MySQL, PHP (LAMP) Stack on Ubuntu 22.04
+DigitalOcean Community Tutorial :
+https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-on-ubuntu-22-04
+#### ALLOW HTTP AND HTTPS TRAFFIC with let's encrypt
+DigitalOcean Community Tutorial :
+https://www.digitalocean.com/community/tutorials/how-to-secure-apache-with-let-s-encrypt-on-ubuntu-22-04
+
+### Install phpMyAdmin with LAMP on Ubuntu 22.04
+DigitalOcean Community Tutorial :
+https://www.digitalocean.com/community/tutorials/how-to-install-and-secure-phpmyadmin-on-ubuntu-22-04
