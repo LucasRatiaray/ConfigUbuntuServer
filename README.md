@@ -7,14 +7,20 @@
 ````bash
 sudo apt update
 sudo apt upgrade
+````
 
-## commande pour créer un utilisateur
+# commande pour créer un utilisateur
+````bash
 sudo adduser nom_utilisateur
-## commande pour ajouter un utilisateur au groupe sudo
+````
+# commande pour ajouter un utilisateur au groupe sudo
+````bash
 sudo usermod -aG sudo nom_utilisateur
-
-## voir le groupe sudo
+````
+# voir le groupe sudo
+````bash
 sudo grep '^sudo' /etc/group
+````
 
 ##############################
 ## ufw firewall configuration ##
