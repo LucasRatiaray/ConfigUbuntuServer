@@ -1,7 +1,3 @@
-###### README
-
-## Bienvenue dans README.md
-
 ## B A S H
 
 ````bash
