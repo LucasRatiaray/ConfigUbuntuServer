@@ -20,6 +20,31 @@ sudo grep '^sudo' /etc/group
 
 ### ufw firewall configuration #
 ````bash
+ufw app list
+````
+Output
+Available applications:
+  OpenSSH
+  
+````bash
+ufw allow OpenSSH
+````
+````bash
+ufw enable
+````
+````bash
+ufw status
+````
+Output
+Status: active
+
+To                         Action      From
+--                         ------      ----
+OpenSSH                    ALLOW       Anywhere
+OpenSSH (v6)               ALLOW       Anywhere (v6)
+
+### ufw commands
+````bash
 sudo apt install ufw
 
 ## allow ipv6 "IPV6=yes"
@@ -54,6 +79,7 @@ sudo ufw allow out x
 
 ## allow from ip_address
 sudo ufw allow from ip_address
+````
 
 ## vim
 # delete all
