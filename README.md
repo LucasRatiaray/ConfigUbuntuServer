@@ -98,5 +98,8 @@ https://www.digitalocean.com/community/tutorials/how-to-secure-apache-with-let-s
 DigitalOcean Community Tutorial :
 https://www.digitalocean.com/community/tutorials/how-to-install-and-secure-phpmyadmin-on-ubuntu-22-04
 
-### Install Docker on ubuntu 22
+### Install Docker
 https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-22-04
+
+### Install Git
+https://www.digitalocean.com/community/tutorials/how-to-install-git-on-ubuntu-22-04
