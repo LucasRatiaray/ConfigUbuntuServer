@@ -81,10 +81,10 @@ sudo ufw allow out x
 sudo ufw allow from ip_address
 ````
 
-## vim
-# delete all
+### vim
+#### delete all
 :%d
-# save & quit
+#### save & quit
 :wq
 `````
 
