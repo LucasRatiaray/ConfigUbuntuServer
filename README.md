@@ -103,3 +103,6 @@ https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-o
 
 ### Install Git
 https://www.digitalocean.com/community/tutorials/how-to-install-git-on-ubuntu-22-04
+
+## Install composer
+https://www.digitalocean.com/community/tutorials/how-to-install-and-use-composer-on-ubuntu-20-04
