@@ -24,7 +24,7 @@ sudo grep '^sudo' /etc/group
 ufw app list
 ````
 Output
-Available applications:
+Available applications:<br>
   OpenSSH
   
 ````bash
@@ -39,9 +39,9 @@ ufw status
 Output
 Status: active
 
-To                         Action      From
+To                         Action      From <br>
 --                         ------      ----
-OpenSSH                    ALLOW       Anywhere
+OpenSSH                    ALLOW       Anywhere <br>
 OpenSSH (v6)               ALLOW       Anywhere (v6)
 
 ### ufw commands
