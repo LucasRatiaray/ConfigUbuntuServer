@@ -8,11 +8,11 @@ sudo apt upgrade
 
 #### create new user
 ````bash
-sudo adduser nom_utilisateur
+sudo adduser new_user
 ````
 #### add user to sudo group
 ````bash
-sudo usermod -aG sudo nom_utilisateur
+sudo usermod -aG sudo user_name
 ````
 #### show sudo group
 ````bash
