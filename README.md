@@ -25,7 +25,9 @@ ufw app list
 ````
 Output
 Available applications:<br>
-  OpenSSH
+<pre>
+    OpenSSH
+</pre>
   
 ````bash
 ufw allow OpenSSH
