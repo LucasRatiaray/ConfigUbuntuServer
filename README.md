@@ -1,24 +1,25 @@
 ## COMMANDES
 
+#### update & upgrade
 ````bash
 sudo apt update
 sudo apt upgrade
 ````
 
-#### commande pour créer un utilisateur
+#### create new user
 ````bash
 sudo adduser nom_utilisateur
 ````
-#### commande pour ajouter un utilisateur au groupe sudo
+#### add user to sudo group
 ````bash
 sudo usermod -aG sudo nom_utilisateur
 ````
-#### voir le groupe sudo
+#### show sudo group
 ````bash
 sudo grep '^sudo' /etc/group
 ````
 
-### ufw firewall configuration #
+#### ufw firewall configuration
 ````bash
 ufw app list
 ````
