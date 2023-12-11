@@ -1,4 +1,4 @@
-## B A S H
+## COMMANDES
 
 ````bash
 sudo apt update
@@ -79,7 +79,10 @@ sudo ufw allow out x
 
 ## allow from ip_address
 sudo ufw allow from ip_address
+````
 
+### vim
+````bash
 ### vim
 #### delete all
 :%d
@@ -87,22 +90,23 @@ sudo ufw allow from ip_address
 :wq
 `````
 
-### Install Linux, Apache, MySQL, PHP (LAMP) Stack on Ubuntu 22.04
-DigitalOcean Community Tutorial :
-https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-on-ubuntu-22-04
-#### ALLOW HTTP AND HTTPS TRAFFIC with let's encrypt
-DigitalOcean Community Tutorial :
-https://www.digitalocean.com/community/tutorials/how-to-secure-apache-with-let-s-encrypt-on-ubuntu-22-04
-
-### Install phpMyAdmin with LAMP on Ubuntu 22.04
-DigitalOcean Community Tutorial :
-https://www.digitalocean.com/community/tutorials/how-to-install-and-secure-phpmyadmin-on-ubuntu-22-04
-
 ### Install Docker
 https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-22-04
 
 ### Install Git
 https://www.digitalocean.com/community/tutorials/how-to-install-git-on-ubuntu-22-04
 
-## Install composer
+### Install composer
 https://www.digitalocean.com/community/tutorials/how-to-install-and-use-composer-on-ubuntu-20-04
+
+### Install Linux, Apache, MySQL, PHP (LAMP) Stack on Ubuntu 22.04
+DigitalOcean Community Tutorial :
+https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-on-ubuntu-22-04
+
+### Allow http and https traffic with let's encrypt
+DigitalOcean Community Tutorial :
+https://www.digitalocean.com/community/tutorials/how-to-secure-apache-with-let-s-encrypt-on-ubuntu-22-04
+
+### Install phpMyAdmin with LAMP on Ubuntu 22.04
+DigitalOcean Community Tutorial :
+https://www.digitalocean.com/community/tutorials/how-to-install-and-secure-phpmyadmin-on-ubuntu-22-04
