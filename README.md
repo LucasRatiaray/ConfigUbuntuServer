@@ -39,10 +39,10 @@ ufw status
 Output
 Status: active
 
-To                         Action      From <br>
---                         ------      ----
-OpenSSH                    ALLOW       Anywhere <br>
-OpenSSH (v6)               ALLOW       Anywhere (v6)
+| To            | Action | From           |
+| ------------- | ------ | -------------- |
+| OpenSSH       | ALLOW  | Anywhere       |
+| OpenSSH (v6)  | ALLOW  | Anywhere (v6)  |
 
 ### ufw commands
 ````bash
@@ -84,10 +84,9 @@ sudo ufw allow from ip_address
 
 ### vim
 ````bash
-### vim
-#### delete all
+## delete all
 :%d
-#### save & quit
+## save & quit
 :wq
 `````
 
