@@ -1,4 +1,4 @@
-## COMMANDES
+## COMMANDS
 
 #### update & upgrade
 ````bash
