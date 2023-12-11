@@ -92,26 +92,26 @@ sudo ufw allow from ip_address
 :wq
 `````
 
-### Install Docker
+### ***Install Docker***
 DigitalOcean Community Tutorial :<br>
 https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-22-04
 
-### Install Git
+### ***Install Git***
 DigitalOcean Community Tutorial :<br>
 https://www.digitalocean.com/community/tutorials/how-to-install-git-on-ubuntu-22-04
 
-### Install composer
+### ***Install composer***
 DigitalOcean Community Tutorial :<br>
 https://www.digitalocean.com/community/tutorials/how-to-install-and-use-composer-on-ubuntu-20-04
 
-### Install Linux, Apache, MySQL, PHP (LAMP) Stack on Ubuntu 22.04
+### ***Install Linux, Apache, MySQL, PHP (LAMP) Stack on Ubuntu 22.04***
 DigitalOcean Community Tutorial :<br>
 https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-on-ubuntu-22-04
 
-### Allow http and https traffic with let's encrypt
+### ***Allow http and https traffic with let's encrypt***
 DigitalOcean Community Tutorial :<br>
 https://www.digitalocean.com/community/tutorials/how-to-secure-apache-with-let-s-encrypt-on-ubuntu-22-04
 
-### Install phpMyAdmin with LAMP on Ubuntu 22.04
+### ***Install phpMyAdmin with LAMP on Ubuntu 22.04***
 DigitalOcean Community Tutorial :<br>
 https://www.digitalocean.com/community/tutorials/how-to-install-and-secure-phpmyadmin-on-ubuntu-22-04
